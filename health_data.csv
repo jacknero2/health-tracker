@@ -1,0 +1,2 @@
+name,age,screen_time,mood,mood_quality,sleep_time,sleep_quality,sleep_interruptions,mental_time,mental_acuity,mental_focus,creative_time,creative_quality,upper_body_time,upper_body_quality,lower_body_time,lower_body_quality,endurance_time,endurance_quality,sexual_time,suxual_quality,protein_intake,carbohydrate)intake,fat_intake,food_list
+Jack nero,4,2,4,2,4,,2,,2,2,,2,2,2,2,2,,2,2,2,22,2,2,"['hello', 'goodbye', 'hello']"
